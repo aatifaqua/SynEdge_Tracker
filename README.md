@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="ic\_synedge.png" alt="SynEdge Logo" width="120" />
+  <img src="ic_synedge.png" alt="SynEdge Logo" width="120" />
   <h1>SynEdge</h1>
-  <p><b>Official Issue Tracker \& Feature Request Hub</b></p>
+  <p><b>Official Issue Tracker & Feature Request Hub</b></p>
 </div>
 
 Official bug tracker and feature request hub for SynEdge. SynEdge is a completely offline, zero-data-collection Android volume customization app featuring custom UI designs. Submit issues here to help shape future updates, or join r/Synedge for general community discussion!
 
 ## 🚀 Download
 
-* [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.aionyxe.synedge) *(Replace with your actual Play Store link)*
+* [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.aionyxe.synedge)
 
 ## ✨ About SynEdge
 
