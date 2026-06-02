@@ -16,7 +16,7 @@ SynEdge replaces your system's default volume panel with highly customizable, mo
 
 ## 🛠️ How to Use This Repository
 
-We use GitHub Issues strictly for actionable development tracking. To help keep this repository clean and professional:
+We use GitHub Issues strictly for actionable development tracking. To help keep this repository clean & professional:
 
 1. **Search First:** Check the [Issues tab](../../issues) to ensure your bug or feature hasn't already been reported.
 2. **Use the Templates:** When creating a new issue, choose either the **Bug Report** or **Feature Request** template.
